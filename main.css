@@ -1,0 +1,14 @@
+*{
+padding: 0;
+margin: 0;
+font-family: "Newsreader", serif;
+box-sizing: border-box;
+color: var(--Dark-Moss-Green-color);
+}
+
+:root{
+--Dark-Moss-Green-color:#426B1F;
+--black-color:#000000;
+--Platinum-color:#E6E6E6 ;
+
+}
