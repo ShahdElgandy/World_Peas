@@ -87,3 +87,33 @@ nav ul li a {
 .hero_section button:hover {
   background-color: #356217;
 }
+
+.newstand{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.newstand .vg{
+  padding-left:  90px;
+  padding-right:20px ;
+
+}
+.news{
+  padding-left: 10px;
+}
+.news img{
+  width: 717px;
+  height: auto;
+}
+.news p{
+  padding-top: 20px;
+  font-weight: 500;
+  font-size: 14px;
+text-decoration: solid;
+color: var(--black-color);
+}
+.news p span{
+  font-weight: 300;
+  font-size: 14px;
+  color: var(--black-color);
+}
